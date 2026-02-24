@@ -1,0 +1,5 @@
+{
+  "name": "Da - Herramienta de Soporte Clínico",
+  "description": "Una herramienta de soporte de diagnóstico médico para que los médicos evalúen el riesgo de desarrollo de aneurismas, con una interfaz nostálgica inspirada en la Wii.",
+  "requestFramePermissions": []
+}
